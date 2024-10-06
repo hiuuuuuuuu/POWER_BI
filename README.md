@@ -39,3 +39,10 @@ Sales ranking changes : Ribbon chart
 
 # Bringing data to the user
 ### Buiding a dashboard
+Upload pre-made reports to the Power BI service, providing you with the data you need for your dashboard.
+
+Create a new dashboard titled Adventure Works Executive Summary, giving the CEO a centralized, interactive interface for viewing and understanding the company's data.
+
+Pin live reports from the three reports to the dashboard, ensuring dynamic, interactive data is readily available to the CEO.
+
+Add Quick Insights to your dashboard, leveraging Power BI's automated analysis features to uncover hidden trends and patterns in the data.
