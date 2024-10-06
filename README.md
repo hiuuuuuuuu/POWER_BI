@@ -7,24 +7,23 @@
  3. Construct a one-to-many relationship between these tables, interpreting the connection that one customer can have multiple orders
  
 ## Data Analysis and Visualization with Power BI
- #### Indicating business performance: 
+ #### + Indicating business performance: 
  - Load data
- - Compute the KPI metrics and create visualizations
-   
-   +identify the following as KPIs relevant to the sales teams: 
+ - Compute the KPI metrics and create visualizations :        identify the following as KPIs relevant to the sales teams: 
 
-Total sales
+Total sales : Card visualization
 
-Average sales
+Average sales : Multi-row card visualization
 
-Total sales per month
+Total sales per month : 
 
-Total orders
+Total orders: Card visualization
 
-Total and monthly marketing spend
+Total and monthly marketing spend :  Waterfall chart 
 
 Sales change over time for sales teams and in relation to marketing spend
 
-Highest sales region 
+Sales ranking changes : Ribbon chart
 
-Sales ranking changes
+![image](https://github.com/user-attachments/assets/346bc380-7a6b-4b02-8fd4-3a4659ef7642)
+
