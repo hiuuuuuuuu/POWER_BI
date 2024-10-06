@@ -37,3 +37,5 @@ Sales ranking changes : Ribbon chart
 
 - Create a **bookmark** for mountain bikes sold in March
 
+# Bringing data to the user
+### Buiding a dashboard
