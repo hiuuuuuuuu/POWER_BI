@@ -25,5 +25,6 @@ Sales change over time for sales teams and in relation to marketing spend
 
 Sales ranking changes : Ribbon chart
 
-![image](https://github.com/user-attachments/assets/346bc380-7a6b-4b02-8fd4-3a4659ef7642)
+![image](https://github.com/user-attachments/assets/5fe456e7-e45b-4069-b56b-9607dcdcae48)
+
 
