@@ -37,12 +37,10 @@ Sales ranking changes : Ribbon chart
 
 - Create a **bookmark** for mountain bikes sold in March
 
-# Bringing data to the user
-### Buiding a dashboard
-Upload pre-made reports to the Power BI service, providing you with the data you need for your dashboard.
+### Performing an analysis
+Enhance the funnel chart by highlighting the top 10 selling products by sales amount.
 
-Create a new dashboard titled Adventure Works Executive Summary, giving the CEO a centralized, interactive interface for viewing and understanding the company's data.
+Enhance the clarity of the histogram by using age bins instead of distinct ages.
 
-Pin live reports from the three reports to the dashboard, ensuring dynamic, interactive data is readily available to the CEO.
-
-Add Quick Insights to your dashboard, leveraging Power BI's automated analysis features to uncover hidden trends and patterns in the data.
+Enhance the scatter chart by clustering the cities into four categories according to their performance.
+![image](https://github.com/user-attachments/assets/9c9ed80f-000b-4c48-96f7-e8ab7882aebb)
