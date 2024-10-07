@@ -39,6 +39,7 @@ Sales ranking changes : Ribbon chart
 
 ### Performing an analysis
 [Performing-an-analysis.pbix](https://github.com/hiuuuuuuuu/POWER_BI/blob/main/Performing-an-analysis.pbix)
+
 Enhance the funnel chart by highlighting the top 10 selling products by sales amount.
 
 Enhance the clarity of the histogram by using age bins instead of distinct ages.
