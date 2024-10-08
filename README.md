@@ -44,8 +44,16 @@ Enhance the funnel chart by highlighting the top 10 selling products by sales am
 
 Enhance the clarity of the histogram by using age bins instead of distinct ages.
 
+
 Enhance the scatter chart by clustering the cities into four categories according to their performance.
 ![image](https://github.com/user-attachments/assets/9c9ed80f-000b-4c48-96f7-e8ab7882aebb)
 
 ### Time Series analysis
 -  **Time series data can help businesses identify opportunities, reduce risk, and improve efficiency.**
+
+### Final Project :
+Utilize the table, column chart, line chart, KPI, and Q&A visuals to bring data to life.
+
+Implement forecasting on your line chart to anticipate future trends.
+
+Employ the Q&A visual to enable a more natural conversation with data.
