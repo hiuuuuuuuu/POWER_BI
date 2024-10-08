@@ -52,8 +52,12 @@ Enhance the scatter chart by clustering the cities into four categories accordin
 -  **Time series data can help businesses identify opportunities, reduce risk, and improve efficiency.**
 
 ### Final Project :
-Utilize the table, column chart, line chart, KPI, and Q&A visuals to bring data to life.
+Create a variety of visualizations, including a table, column chart, line chart, and Key Performance Indicators (KPIs), to represent complex sales and customer data in a digestible format.
 
-Implement forecasting on your line chart to anticipate future trends.
+Customize these visuals by setting specific colors and adding tooltips, enhancing the user experience and accessibility of the data.
 
-Employ the Q&A visual to enable a more natural conversation with data.
+Implement forecasting functionalities on the line chart, empowering the executives to anticipate future sales trends and take proactive measures.
+
+Integrate a Q&A visual into the report, enabling the executive team to query the data directly and receive timely insights.
+![image](https://github.com/user-attachments/assets/6266a294-8fc6-43ce-9661-b95c1bac57ba)
+
