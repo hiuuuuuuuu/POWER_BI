@@ -59,5 +59,6 @@ Customize these visuals by setting specific colors and adding tooltips, enhancin
 Implement forecasting functionalities on the line chart, empowering the executives to anticipate future sales trends and take proactive measures.
 
 Integrate a Q&A visual into the report, enabling the executive team to query the data directly and receive timely insights.
-![image](https://github.com/user-attachments/assets/6266a294-8fc6-43ce-9661-b95c1bac57ba)
+
+![image](https://github.com/user-attachments/assets/db4edead-0470-464c-9eaf-37493c888410)
 
