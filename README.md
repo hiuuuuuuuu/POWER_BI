@@ -52,6 +52,7 @@ Enhance the scatter chart by clustering the cities into four categories accordin
 -  **Time series data can help businesses identify opportunities, reduce risk, and improve efficiency.**
 
 ### Final Project :
+[Adventure-Works-executive-summary.pbix](https://github.com/hiuuuuuuuu/POWER_BI/blob/main/Adventure-Works-executive-summary.pbix)
 Create a variety of visualizations, including a table, column chart, line chart, and Key Performance Indicators (KPIs), to represent complex sales and customer data in a digestible format.
 
 Customize these visuals by setting specific colors and adding tooltips, enhancing the user experience and accessibility of the data.
