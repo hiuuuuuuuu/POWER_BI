@@ -51,7 +51,7 @@ Enhance the scatter chart by clustering the cities into four categories accordin
 ### Time Series analysis
 -  **Time series data can help businesses identify opportunities, reduce risk, and improve efficiency.**
 
-### Final Project :
+#### Final Project :
 [Adventure-Works-executive-summary.pbix](https://github.com/hiuuuuuuuu/POWER_BI/blob/main/Adventure-Works-executive-summary.pbix)
 
 Create a variety of visualizations, including a table, column chart, line chart, and Key Performance Indicators (KPIs), to represent complex sales and customer data in a digestible format.
@@ -64,3 +64,12 @@ Integrate a Q&A visual into the report, enabling the executive team to query the
 
 ![image](https://github.com/user-attachments/assets/db4edead-0470-464c-9eaf-37493c888410)
 
+### Creative Design in PowerBI
+
+Create a data story through a dashboard, providing an overview of quarterly sales performance for the executive board of Adventure Works.
+
+Create a granular report with interactivity about the same sales period for the sales management team.
+
+Highlight any trends identified, such as higher/lower sales by region, category, and salespersons.
+
+Provide a conclusion summarizing the key takeaways for both the board of directors and sales management team.
