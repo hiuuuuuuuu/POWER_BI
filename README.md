@@ -66,6 +66,8 @@ Integrate a Q&A visual into the report, enabling the executive team to query the
 
 ### Creative Design in PowerBI
 
+
+
 Create a data story through a dashboard, providing an overview of quarterly sales performance for the executive board of Adventure Works.
 
 Create a granular report with interactivity about the same sales period for the sales management team.
@@ -73,3 +75,6 @@ Create a granular report with interactivity about the same sales period for the 
 Highlight any trends identified, such as higher/lower sales by region, category, and salespersons.
 
 Provide a conclusion summarizing the key takeaways for both the board of directors and sales management team.
+
+![image](https://github.com/user-attachments/assets/88c6e048-16bd-413f-9b40-65c11fd228d2)
+
