@@ -66,6 +66,7 @@ Integrate a Q&A visual into the report, enabling the executive team to query the
 
 ### Creative Design in PowerBI
 
+[Adventure-Works-Quarterly-Report.pbix](https://github.com/hiuuuuuuuu/POWER_BI/blob/main/Adventure-Works-Quarterly-Report.pbix)
 
 
 Create a data story through a dashboard, providing an overview of quarterly sales performance for the executive board of Adventure Works.
